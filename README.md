@@ -23,3 +23,4 @@ The SQL Queries with the Commercial Performance Analysis finds can be found [her
 
 The SQL Queries with the Sales Trends-Customer Behavior finds can be found [here](SQL_Inovatech_Sales_Trends).
 
+![image alt](Dashboard.png)
