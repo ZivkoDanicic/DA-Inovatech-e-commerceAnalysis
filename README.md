@@ -11,7 +11,7 @@ The raw dataset contains approximately 225,000 rows and it provides customer and
 
 SQL check codes to identify problems in tables can be found here. 
 
-Steps taken to clean, check data quality and prepare the dataset for analytics can be found here. 
+Steps taken to clean, check data quality and prepare the dataset for analytics can be found [here](Inova_Issue_Log.xlsx). 
 
 ![image alt](https://github.com/ZivkoDanicic/DA-Inovatech-e-commerceAnalysis/blob/main/Inova_Data_Structure.png?raw=true)
 
