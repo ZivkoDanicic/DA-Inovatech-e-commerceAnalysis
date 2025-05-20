@@ -1,7 +1,7 @@
 # DA-Inovatech-e-commerceAnalysis
 Analysis project focused on uncovering data-driven insights for client company Inovatech. Utilizes SQL, Excel, PowerBI and statistical analysis.
 
-**Ovierview**
+**Overview**
 
 The goal of this analysis project is to discover data-driven insights for the client company Inovatech, a global e-commerce platform for consumer electronics. The analysis uncovers trends in sales, marketing effectiveness, product performance, customer behavior, and refund trends; providing a comprehensive view of Inovatech's performance across various areas of the business. Metrics and KPIs were tracked across multiple channels, and based on these insights, I provided recommendations on where Inovatech should focus its efforts to improve sales processes, marketing strategy, and operational efficiency.
 
