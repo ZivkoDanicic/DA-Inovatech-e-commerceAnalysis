@@ -9,7 +9,7 @@ The goal of this analysis project is to discover data-driven insights for the cl
 
 The raw dataset contains approximately 225,000 rows and it provides customer and sales data. 
 
-SQL check codes to identify problems in tables can be found here. 
+SQL check codes to identify problems in tables can be found [here](SQL_Inovatech_Data_Checks). 
 
 Steps taken to clean, check data quality and prepare the dataset for analytics can be found [here](Inova_Issue_Log.xlsx). 
 
