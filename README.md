@@ -13,5 +13,5 @@ SQL check codes to identify problems in tables can be found here.
 
 Steps taken to clean, check data quality and prepare the dataset for analytics can be found here. 
 
-![Inovatech Image](https://imgur.com/a/inovatech-data-structure-2LB50Yc.png)
+![image alt](https://github.com/ZivkoDanicic/DA-Inovatech-e-commerceAnalysis/blob/main/Inova_Data_Structure.png?raw=true)
 
