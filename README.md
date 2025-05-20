@@ -25,4 +25,4 @@ The SQL Queries with the Sales Trends-Customer Behavior finds can be found [here
 
 ![image alt](Dashboard.png)
 
-The dasboard enables stakeholders to filt by year, the purchase platform, region, product type, marketing channel and for loyalty vs non-loyalty members. The dashboard displays Sales Growth in both the sales trend chart and broken down sales growth changes by product. The full dashboard can be found in Power BI here. 
+The dashboard allows stakeholders to filter by year, purchase platform, region, product type, marketing channel, and customer segment (loyalty vs. non-loyalty members). It displays overall sales growth through a sales trend chart, as well as a breakdown of sales growth by product category. The complete dashboard is available in Power BI  [here](https://app.powerbi.com/view?r=eyJrIjoiMWQxYjZjMzQtOWMyOC00ZDhhLThhYjMtYzY1NTA2M2MzNWUwIiwidCI6ImE2NmM3ZDYzLWRmMWItNGYxNS05NzVmLWJlYmM2NDM1ZjZhOSJ9). 
