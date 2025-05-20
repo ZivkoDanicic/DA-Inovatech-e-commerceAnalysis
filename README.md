@@ -15,3 +15,11 @@ Steps taken to clean, check data quality and prepare the dataset for analytics c
 
 ![image alt](https://github.com/ZivkoDanicic/DA-Inovatech-e-commerceAnalysis/blob/main/Inova_Data_Structure.png?raw=true)
 
+**Exploratory Data Analysis** 
+
+I seperated the analysis into two types: Commercial Performance Analysis and Sales Trends-Customer Behavior.
+
+The SQL Queries with the Commercial Performance Analysis finds can be found [here](SQL_Inovatech_Commercial_Analysis).
+
+The SQL Queries with the Sales Trends-Customer Behavior finds can be found [here](SQL_Inovatech_Sales_Trends).
+
