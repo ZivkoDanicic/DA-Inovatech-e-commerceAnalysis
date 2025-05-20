@@ -24,3 +24,5 @@ The SQL Queries with the Commercial Performance Analysis finds can be found [her
 The SQL Queries with the Sales Trends-Customer Behavior finds can be found [here](SQL_Inovatech_Sales_Trends).
 
 ![image alt](Dashboard.png)
+
+The dasboard enables stakeholders to filt by year, the purchase platform, region, product type, marketing channel and for loyalty vs non-loyalty members. The dashboard displays Sales Growth in both the sales trend chart and broken down sales growth changes by product. The full dashboard can be found in Power BI here. 
