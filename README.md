@@ -1,5 +1,5 @@
 # DA-Inovatech-e-commerceAnalysis
-Analysis project focused on uncovering data-driven insights for client company Inovatech. Utilizes SQL, Excel, PowerBI and statistical analysis.
+Analytics project focused on uncovering data-driven insights for client company Inovatech. Utilizes SQL, Excel, PowerBI and statistical analysis.
 
 **Overview**
 
